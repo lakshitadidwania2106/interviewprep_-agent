@@ -1,5 +1,5 @@
 
->>>> Local AI Agent with Memory (Docker + Ollama) <<<<
+>>>>  Local AI Agent with Memory (Docker + Ollama)  <<<<
 
 Overview
 This project is a **local AI agent** that runs entirely on your machine using:
